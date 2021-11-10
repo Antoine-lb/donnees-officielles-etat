@@ -12,6 +12,7 @@ Index des données publiques officielles de la République Française
 - https://www.1jeune1solution.gouv.fr - Emploi, formation, volontariat
   - https://mes-aides.1jeune1solution.beta.gouv.fr - Évaluez vos droits à plus de 20 aides en moins de 5 minutes.
 - https://www.prix-carburants.gouv.fr
+- https://www.elysee.fr/ecrire-au-president-de-la-republique/ - Écrire au Président de la République
 
 ## Finance/Economie
 - https://www.budget.gouv.fr - La plateforme des finances publiques, du budget de l’État et de la performance publique.
@@ -74,8 +75,9 @@ Index des données publiques officielles de la République Française
 
 ## Style/Design
 - https://www.gouvernement.fr/marque-Etat - La marque de l'État, là où l’État est présent, agit, finance, sa présence doit être clairement identifiée.
-  - https://www.gouvernement.fr/charte/charte-reseaux-sociaux/utilisation-courante-contenu-publie - Comment tweeter pour le gouvernement 
-
+  - https://www.gouvernement.fr/charte/charte-reseaux-sociaux/utilisation-courante-contenu-publie - Comment tweeter pour le gouvernement
+- https://design.numerique.gouv.fr - Des idées et outils pour améliorer l’expérience usager des services publics numériques.
+  - https://design.numerique.gouv.fr/outils/checklist-dev - Checklist Dev
 
 # ToDo
 - [ ] Add more repos from https://code.gouv.fr/#/stats
