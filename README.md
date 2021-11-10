@@ -37,6 +37,7 @@ Index des données publiques officielles de la République Française
 ## Carte/Adresses
 - https://adresse.data.gouv.fr - Référencer l’intégralité des adresses du territoire et les rendre utilisables par tous.
 - https://cadastre.data.gouv.fr - Toutes les propriétés immobilières situées dans chaque commune française.
+- https://app.dvf.etalab.gouv.fr - Demande de Valeur Foncière (Carte)
 
 ## Asso
 - https://www.service-civique.gouv.fr - C'est un engagement volontaire au service de l'intérêt général ouvert aux 16-25 ans, élargi à 30 ans aux jeunes en situation de handicap. Accessible sans condition de diplôme, le Service Civique est indemnisé et s'effectue en France ou à l'étranger.
@@ -45,6 +46,7 @@ Index des données publiques officielles de la République Française
 
 ## Informatique
 - https://www.data.gouv.fr - Plateforme ouverte des données publiques françaises.
+  - https://transport.data.gouv.fr - Rassembler les données de toute l’offre de mobilité à travers la France.
 
 - https://api.gouv.fr - Accédez aux données de toutes les administrations.
   - https://api.gouv.fr/documentation/api_r2p - Recherche des personnes physiques dans le référentiel de la DGFiP
