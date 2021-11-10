@@ -15,6 +15,7 @@ Index des données publiques officielles de la République Française
 - https://www.elysee.fr/ecrire-au-president-de-la-republique/ - Écrire au Président de la République
 
 ## Jeunes
+- https://www.etudiant.gouv.fr - Votre vie étudiante au quotidien
 - https://jeunes.gouv.fr - Logement, Etudes, Santé, Loisirs, Citoyenneté pour les jeunes.
   - https://jeunes.gouv.fr/Devenir-benevole-majeur - Devenir bénévole
 - https://www.1jeune1solution.gouv.fr - Emploi, formation, volontariat
@@ -33,6 +34,7 @@ Index des données publiques officielles de la République Française
 - https://www.info-financiere.fr - Consulter les informations réglementées des sociétés cotées.
 
 ## Mon Entreprise
+- https://www.entreprises.gouv.fr - Portail de la Direction générale des Entreprises
 - https://oups.gouv.fr/professionnel - Vous avez droit à l'erreur
 - https://mon-entreprise.fr - Les ressources nécessaires pour développer votre activité, du statut juridique à l'embauche.
   - https://mon-entreprise.fr/simulateurs/aides-embauche - Aides à l’embauche simulateurs.
@@ -59,7 +61,6 @@ Index des données publiques officielles de la République Française
 - https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dotation. Organisatons syndicales et professionnelles. Bulletin des annonces légales obligatoires
 
 
-
 ## Informatique
 - https://www.data.gouv.fr - Plateforme ouverte des données publiques françaises.
   - https://transport.data.gouv.fr - Rassembler les données de toute l’offre de mobilité à travers la France.
@@ -77,6 +78,7 @@ Index des données publiques officielles de la République Française
 - https://beta.gouv.fr - Communauté des incubateurs de Services Publiques Numériques.
 - https://www.fabrique.social.gouv.fr - fabrique numérique des ministères sociaux.x
 
+https://www.intelligence-artificielle.gouv.fr/fr - Stratégie Nationale pour l’Intelligence Artificielle (SNIA)
 ### Code Source (Git repo)
 - https://github.com/SocialGouv - Fabrique numérique des Ministères Sociaux
   - https://github.com/SocialGouv/jours-feries - Jours fériés par an
@@ -84,6 +86,9 @@ Index des données publiques officielles de la République Française
   - https://github.com/SocialGouv/react-departements - Une carte de France où certains departements peuvent être colorés.
 
 - https://github.com/betagouv - Communauté des incubateurs de Services Publiques Numériques
+
+### Cyber-sec
+- https://www.33700.fr - La plateforme de lutte contre les spams vocaux et SMS vous informe et vous accompagne.
 
 
 ## Style/Design
