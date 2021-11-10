@@ -1,6 +1,9 @@
 # Index non officiel des sites internet officiels
 Index des données publiques officielles de la République Française
 
+1. Informacion (datos, texto o audiovisual)
+2. Oficial (Gouv)
+3. Util
 
 https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dotation. Organisatons syndicales et professionnelles. Bulletin des annonces légales obligatoires
 
@@ -26,5 +29,6 @@ https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dota
 
 ## Style/Design
 - https://www.gouvernement.fr/marque-Etat - La marque de l'État, là où l’État est présent, agit, finance, sa présence doit être clairement identifiée.
+  - https://www.gouvernement.fr/charte/charte-reseaux-sociaux/utilisation-courante-contenu-publie - Comment tweeter pour le gouvernement 
 
 
