@@ -11,7 +11,7 @@ Index des données publiques officielles de la République Française
 - https://www.legifrance.gouv.fr - Service public de la diffusion du droit.
 - https://www.impots.gouv.fr/portail/simulateurs - Simulateurs d'impôt.
 - https://www.gouvernement.fr/les-liens-utiles-a-consulter - Les liens utiles à consulter en cas de grève (transports).
-- https://www.prix-carburants.gouv.fr - 
+- https://www.prix-carburants.gouv.fr - Le Prix des Carburants (carte)
 - https://www.elysee.fr/ecrire-au-president-de-la-republique/ - Écrire au Président de la République
 
 ## Jeunes
@@ -65,6 +65,7 @@ Index des données publiques officielles de la République Française
 - https://www.data.gouv.fr - Plateforme ouverte des données publiques françaises.
   - https://transport.data.gouv.fr - Rassembler les données de toute l’offre de mobilité à travers la France.
   - https://data.education.gouv.fr - Plate-forme Open Data de l’Éducation nationale.
+  - https://open.urssaf.fr - URSSAF data.
   - https://guides.etalab.gouv.fr/juridique/#cadre-general-et-opportunites - Quelles données doivent être publiées en open data ?
   - https://guides.etalab.gouv.fr/data.gouv.fr/ - Comment publier des données sur data.gouv.fr ?
 
@@ -74,11 +75,14 @@ Index des données publiques officielles de la République Française
 - https://code.gouv.fr - Ce site permet d'explorer les codes sources ouverts par des organismes publics.
   - https://code.gouv.fr/#/repos - Code publiés ou contribuer par des organisme publics.
   - https://code.gouv.fr/#/deps - Bibliothèques de code les plus utilisées.
+- https://sill.etalab.gouv.fr/en/software - Logiciels libres recommandés pour le secteur public
 
 - https://beta.gouv.fr - Communauté des incubateurs de Services Publiques Numériques.
 - https://www.fabrique.social.gouv.fr - fabrique numérique des ministères sociaux.x
 
-https://www.intelligence-artificielle.gouv.fr/fr - Stratégie Nationale pour l’Intelligence Artificielle (SNIA)
+- https://www.intelligence-artificielle.gouv.fr/fr - Stratégie Nationale pour l’Intelligence Artificielle (SNIA)
+- https://ecoresponsable.numerique.gouv.fr - Mission interministérielle pour réduir les impcats environnementaux du numérique
+
 ### Code Source (Git repo)
 - https://github.com/SocialGouv - Fabrique numérique des Ministères Sociaux
   - https://github.com/SocialGouv/jours-feries - Jours fériés par an
@@ -100,4 +104,7 @@ https://www.intelligence-artificielle.gouv.fr/fr - Stratégie Nationale pour l�
 # ToDo
 - [ ] Add more repos from https://code.gouv.fr/#/stats
 - [ ] Que es https://www.unml.info/les-missions-locales/annuaire/
+- [ ] service public
+- [ ] AMF
+- [ ] Parlamento
 
