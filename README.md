@@ -37,10 +37,14 @@ https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dota
 
 ## Informatique
 - https://code.gouv.fr - Ce site permet d'explorer les codes sources ouverts par des organismes publics.
+  - https://code.gouv.fr/#/repos - Code publiés ou contribuer par des organisme publics.
+  - https://code.gouv.fr/#/deps - Bibliothèques de code les plus utilisées.
 
 ### Code Source (Git repo)
 - https://github.com/SocialGouv - Fabrique numérique des Ministères Sociaux
+  - https://github.com/SocialGouv/jours-feries - Jours fériés par an
   - https://github.com/SocialGouv/egapro - Calcul de l'index d'égalité femme / homme dans les entreprises
+  - https://github.com/SocialGouv/react-departements - Une carte de France où certains departements peuvent être colorés.
 
 
 ## Style/Design
