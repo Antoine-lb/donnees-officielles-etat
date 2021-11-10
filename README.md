@@ -8,8 +8,10 @@ Index des données publiques officielles de la République Française
 ## Citoyen
 - https://oups.gouv.fr - Vous avez droit à l'erreur
 - https://code.travail.gouv.fr - Obtenez les réponses à vos questions sur le droit du travail.
+- https://www.legifrance.gouv.fr - Service public de la diffusion du droit.
 - https://www.1jeune1solution.gouv.fr - Emploi, formation, volontariat
   - https://mes-aides.1jeune1solution.beta.gouv.fr - Évaluez vos droits à plus de 20 aides en moins de 5 minutes.
+- https://www.prix-carburants.gouv.fr
 
 ## Finance/Economie
 - https://www.budget.gouv.fr - La plateforme des finances publiques, du budget de l’État et de la performance publique.
@@ -29,8 +31,6 @@ Index des données publiques officielles de la République Française
   - https://mon-entreprise.fr/simulateurs/auto-entrepreneur - Simulateur de revenus auto-entrepreneur.
   - https://mon-entreprise.fr/simulateurs/salaire-brut-net - Simulateur de revenus pour salarié.
 
-
-
 ## Santé
 - https://www.transparence.sante.gouv.fr - La base de données publique Transparence.
 
@@ -39,14 +39,19 @@ Index des données publiques officielles de la République Française
 - https://cadastre.data.gouv.fr - Toutes les propriétés immobilières situées dans chaque commune française.
 - https://app.dvf.etalab.gouv.fr - Demande de Valeur Foncière (Carte)
 
-## Asso
+## Association
+- https://www.associations.gouv.fr - Créer, gérer et développer son association
+  - https://www.data-asso.fr/ - (Partenaire) présenter toutes les associations relevant de la loi 1901.
 - https://www.service-civique.gouv.fr - C'est un engagement volontaire au service de l'intérêt général ouvert aux 16-25 ans, élargi à 30 ans aux jeunes en situation de handicap. Accessible sans condition de diplôme, le Service Civique est indemnisé et s'effectue en France ou à l'étranger.
 - https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dotation. Organisatons syndicales et professionnelles. Bulletin des annonces légales obligatoires
+
 
 
 ## Informatique
 - https://www.data.gouv.fr - Plateforme ouverte des données publiques françaises.
   - https://transport.data.gouv.fr - Rassembler les données de toute l’offre de mobilité à travers la France.
+  - https://guides.etalab.gouv.fr/juridique/#cadre-general-et-opportunites - Quelles données doivent être publiées en open data ?
+  - https://guides.etalab.gouv.fr/data.gouv.fr/ - Comment publier des données sur data.gouv.fr ?
 
 - https://api.gouv.fr - Accédez aux données de toutes les administrations.
   - https://api.gouv.fr/documentation/api_r2p - Recherche des personnes physiques dans le référentiel de la DGFiP
