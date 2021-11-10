@@ -9,10 +9,17 @@ Index des données publiques officielles de la République Française
 - https://oups.gouv.fr - Vous avez droit à l'erreur
 - https://code.travail.gouv.fr - Obtenez les réponses à vos questions sur le droit du travail.
 - https://www.legifrance.gouv.fr - Service public de la diffusion du droit.
+- https://www.impots.gouv.fr/portail/simulateurs - Simulateurs d'impôt.
+- https://www.gouvernement.fr/les-liens-utiles-a-consulter - Les liens utiles à consulter en cas de grève (transports).
+- https://www.prix-carburants.gouv.fr - 
+- https://www.elysee.fr/ecrire-au-president-de-la-republique/ - Écrire au Président de la République
+
+## Jeunes
+- https://jeunes.gouv.fr - Logement, Etudes, Santé, Loisirs, Citoyenneté pour les jeunes.
+  - https://jeunes.gouv.fr/Devenir-benevole-majeur - Devenir bénévole
 - https://www.1jeune1solution.gouv.fr - Emploi, formation, volontariat
   - https://mes-aides.1jeune1solution.beta.gouv.fr - Évaluez vos droits à plus de 20 aides en moins de 5 minutes.
-- https://www.prix-carburants.gouv.fr
-- https://www.elysee.fr/ecrire-au-president-de-la-republique/ - Écrire au Président de la République
+
 
 ## Finance/Economie
 - https://www.budget.gouv.fr - La plateforme des finances publiques, du budget de l’État et de la performance publique.
@@ -35,6 +42,11 @@ Index des données publiques officielles de la République Française
 ## Santé
 - https://www.transparence.sante.gouv.fr - La base de données publique Transparence.
 
+- https://www.mangerbouger.fr - Programme National Nutrition Santé
+  - https://www.mangerbouger.fr/Manger-mieux/Vos-outils/Calendrier-de-saison2 - Calendrier de saison
+  - https://www.mangerbouger.fr/Manger-mieux/Vos-outils/Fabrique-a-menus - La Fabrique à menus, s'adapte à vos préférences et vos contraintes
+
+
 ## Carte/Adresses
 - https://adresse.data.gouv.fr - Référencer l’intégralité des adresses du territoire et les rendre utilisables par tous.
 - https://cadastre.data.gouv.fr - Toutes les propriétés immobilières situées dans chaque commune française.
@@ -51,6 +63,7 @@ Index des données publiques officielles de la République Française
 ## Informatique
 - https://www.data.gouv.fr - Plateforme ouverte des données publiques françaises.
   - https://transport.data.gouv.fr - Rassembler les données de toute l’offre de mobilité à travers la France.
+  - https://data.education.gouv.fr - Plate-forme Open Data de l’Éducation nationale.
   - https://guides.etalab.gouv.fr/juridique/#cadre-general-et-opportunites - Quelles données doivent être publiées en open data ?
   - https://guides.etalab.gouv.fr/data.gouv.fr/ - Comment publier des données sur data.gouv.fr ?
 
