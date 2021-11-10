@@ -7,9 +7,6 @@ Index des données publiques officielles de la République Française
 
 https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dotation. Organisatons syndicales et professionnelles. Bulletin des annonces légales obligatoires
 
-## Données
-- https://www.data.gouv.fr - Plateforme ouverte des données publiques françaises.
-
 ## Citoyen
 - https://oups.gouv.fr - Vous avez droit à l'erreur
 - https://code.travail.gouv.fr - Obtenez les réponses à vos questions sur le droit du travail.
@@ -26,6 +23,12 @@ https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dota
 
 ## Mon Entreprise
 - https://oups.gouv.fr/professionnel - Vous avez droit à l'erreur
+- https://mon-entreprise.fr - Les ressources nécessaires pour développer votre activité, du statut juridique à l'embauche.
+  - https://mon-entreprise.fr/simulateurs/aides-embauche - Aides à l’embauche simulateurs.
+  - https://mon-entreprise.fr/simulateurs/auto-entrepreneur - Simulateur de revenus auto-entrepreneur.
+  - https://mon-entreprise.fr/simulateurs/salaire-brut-net - Simulateur de revenus pour salarié.
+
+
 
 ## Santé
 - https://www.transparence.sante.gouv.fr - La base de données publique Transparence.
@@ -35,17 +38,24 @@ https://www.journal-officiel.gouv.fr - Associations, fondations et fonds de dota
 - https://cadastre.data.gouv.fr - Toutes les propriétés immobilières situées dans chaque commune française.
 
 ## Informatique
+- https://www.data.gouv.fr - Plateforme ouverte des données publiques françaises.
+
 - https://api.gouv.fr - Accédez aux données de toutes les administrations.
   - https://api.gouv.fr/documentation/api_r2p - Recherche des personnes physiques dans le référentiel de la DGFiP
+
 - https://code.gouv.fr - Ce site permet d'explorer les codes sources ouverts par des organismes publics.
   - https://code.gouv.fr/#/repos - Code publiés ou contribuer par des organisme publics.
   - https://code.gouv.fr/#/deps - Bibliothèques de code les plus utilisées.
+
+- https://beta.gouv.fr - Communauté des incubateurs de Services Publiques Numériques.
 
 ### Code Source (Git repo)
 - https://github.com/SocialGouv - Fabrique numérique des Ministères Sociaux
   - https://github.com/SocialGouv/jours-feries - Jours fériés par an
   - https://github.com/SocialGouv/egapro - Calcul de l'index d'égalité femme / homme dans les entreprises
   - https://github.com/SocialGouv/react-departements - Une carte de France où certains departements peuvent être colorés.
+
+- https://github.com/betagouv
 
 
 ## Style/Design
