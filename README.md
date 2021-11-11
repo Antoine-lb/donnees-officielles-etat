@@ -5,7 +5,6 @@ Index des données publiques officielles de la République Française
 2. Oficial (Gouv)
 3. Util
 
-- https://www.bodacc.fr - Bulletin officiel des annonces civiles et commerciales.
 
 ## Citoyen
 - https://www.service-public.fr - 
@@ -38,6 +37,7 @@ Index des données publiques officielles de la République Française
 - https://annuaire-entreprises.data.gouv.fr - Toutes les informations publiques concernant les entreprises françaises
 - https://www.info-financiere.fr - Consulter les informations réglementées des sociétés cotées.
 - https://encheres-domaine.gouv.fr - Site internet des ventes du Domaine
+- https://www.bodacc.fr - Bulletin officiel des annonces civiles et commerciales.
 
 ## Mon Entreprise
 - https://www.entreprises.gouv.fr - Portail de la Direction générale des Entreprises
