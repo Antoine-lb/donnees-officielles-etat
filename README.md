@@ -6,6 +6,8 @@ Index des données publiques officielles de la République Française
 3. Util
 
 
+https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/api/ - API
+
 ## Citoyen
 - https://www.service-public.fr - 
 - https://oups.gouv.fr - Vous avez droit à l'erreur
@@ -38,6 +40,7 @@ Index des données publiques officielles de la République Française
 - https://www.info-financiere.fr - Consulter les informations réglementées des sociétés cotées.
 - https://encheres-domaine.gouv.fr - Site internet des ventes du Domaine
 - https://www.bodacc.fr - Bulletin officiel des annonces civiles et commerciales.
+- https://www.boamp.fr - Bulletin officiel des annonces des marchés publics.
 
 ## Mon Entreprise
 - https://www.entreprises.gouv.fr - Portail de la Direction générale des Entreprises
@@ -49,6 +52,7 @@ Index des données publiques officielles de la République Française
 
 ## Santé
 - https://www.transparence.sante.gouv.fr - La base de données publique Transparence.
+- https://drees.solidarites-sante.gouv.fr - Direction de la recherche, des études, de l'évaluation et des statistiques
 
 - https://www.mangerbouger.fr - Programme National Nutrition Santé
   - https://www.mangerbouger.fr/Manger-mieux/Vos-outils/Calendrier-de-saison2 - Calendrier de saison
@@ -79,6 +83,9 @@ Index des données publiques officielles de la République Française
 
 - https://api.gouv.fr - Accédez aux données de toutes les administrations.
   - https://api.gouv.fr/documentation/api_r2p - Recherche des personnes physiques dans le référentiel de la DGFiP
+
+- https://www.banatic.interieur.gouv.fr - Base nationale sur l'intercommunalité
+
 
 - https://code.gouv.fr - Ce site permet d'explorer les codes sources ouverts par des organismes publics.
   - https://code.gouv.fr/#/repos - Code publiés ou contribuer par des organisme publics.
@@ -112,7 +119,6 @@ Index des données publiques officielles de la République Française
 # ToDo
 - [ ] Add more repos from https://code.gouv.fr/#/stats
 - [ ] Que es https://www.unml.info/les-missions-locales/annuaire/
-- [ ] service public
 - [ ] AMF
 - [ ] Parlamento
 
