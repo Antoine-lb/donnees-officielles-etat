@@ -6,12 +6,15 @@ Index des données publiques officielles de la République Française
 3. Util
 
 ## Citoyen
+- https://www.service-public.fr - 
 - https://oups.gouv.fr - Vous avez droit à l'erreur
 - https://code.travail.gouv.fr - Obtenez les réponses à vos questions sur le droit du travail.
 - https://www.legifrance.gouv.fr - Service public de la diffusion du droit.
 - https://www.impots.gouv.fr/portail/simulateurs - Simulateurs d'impôt.
 - https://www.gouvernement.fr/les-liens-utiles-a-consulter - Les liens utiles à consulter en cas de grève (transports).
 - https://www.prix-carburants.gouv.fr - Le Prix des Carburants (carte)
+- https://www.laposte.fr/envoi-courrier-en-ligne - Créer votre lettre qui sera imprimée et envoyée par La Poste (pas besoin d'imprimante)
+- https://www.info-retraite.fr - Le site qui simplifie la retraite
 - https://www.elysee.fr/ecrire-au-president-de-la-republique/ - Écrire au Président de la République
 
 ## Jeunes
@@ -32,6 +35,7 @@ Index des données publiques officielles de la République Française
 ## Entreprises
 - https://annuaire-entreprises.data.gouv.fr - Toutes les informations publiques concernant les entreprises françaises
 - https://www.info-financiere.fr - Consulter les informations réglementées des sociétés cotées.
+- https://encheres-domaine.gouv.fr - Site internet des ventes du Domaine
 
 ## Mon Entreprise
 - https://www.entreprises.gouv.fr - Portail de la Direction générale des Entreprises
@@ -49,10 +53,12 @@ Index des données publiques officielles de la République Française
   - https://www.mangerbouger.fr/Manger-mieux/Vos-outils/Fabrique-a-menus - La Fabrique à menus, s'adapte à vos préférences et vos contraintes
 
 
-## Carte/Adresses
+## Carte/Immobilier
 - https://adresse.data.gouv.fr - Référencer l’intégralité des adresses du territoire et les rendre utilisables par tous.
 - https://cadastre.data.gouv.fr - Toutes les propriétés immobilières situées dans chaque commune française.
 - https://app.dvf.etalab.gouv.fr - Demande de Valeur Foncière (Carte)
+- https://locations.immobilier-etat.gouv.fr - Le site des locations immobilières de l’Etat
+- https://cessions.immobilier-etat.gouv.fr - Retrouvez les biens immobiliers de l’État à vendre
 
 ## Association
 - https://www.associations.gouv.fr - Créer, gérer et développer son association
