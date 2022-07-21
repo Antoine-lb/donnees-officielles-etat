@@ -1,13 +1,6 @@
 # Index non officiel des sites internet officiels
 Index des données publiques officielles de la République Française
 
-1. Informacion (datos, texto o audiovisual)
-2. Oficial (Gouv)
-3. Util
-
-
-https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/api/ - API
-
 ## Citoyen
 - https://www.service-public.fr - 
 - https://oups.gouv.fr - Vous avez droit à l'erreur
@@ -122,4 +115,6 @@ https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/a
 - [ ] AMF
 - [ ] Parlement
 - [ ] Senat
+- [ ] https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/api/ - API
+
 
