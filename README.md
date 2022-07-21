@@ -117,9 +117,9 @@ https://bodacc-datadila.opendatasoft.com/explore/dataset/annonces-commerciales/a
   - https://design.numerique.gouv.fr/outils/checklist-dev - Checklist Dev
 
 # ToDo
-- [ ] Add more repos from https://code.gouv.fr/#/stats
-- [ ] Que es https://www.unml.info/les-missions-locales/annuaire/
+- [ ] https://code.gouv.fr/#/stats
+- [ ] https://www.unml.info/les-missions-locales/annuaire/
 - [ ] AMF
-- [ ] Parlamento
-- [ ] senat
+- [ ] Parlement
+- [ ] Senat
 
